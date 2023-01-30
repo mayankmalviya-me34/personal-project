@@ -443,7 +443,7 @@
                             </div>
                             <div class="row">
                                 <div class="form-item col-12 padd-15">
-                                    <input type="submit" value="Send Message" class="btn">Send Message
+                                    <input type="submit" value="Send Message" class="btn">
                                 </div>
                             </div>
                         </div>
